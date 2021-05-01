@@ -6,3 +6,9 @@ h3 {
     padding-right: 10px;
     color: white !important
 }
+
+.imgcont {
+    height: 140px;
+    width: auto !important;
+
+}
